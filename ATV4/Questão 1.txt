@@ -1,0 +1,16 @@
+﻿1 - O que é Programação Orientada a Objetos?: É uma forma de escrever código que procura representar conceitos reais em forma de código (tangíveis ou abstratos) de forma eficiente por meio dos objetos.
+
+
+2 - Qual a diferença entre classe e objeto?: A classe é o molde ao qual a partir dele será criado um objeto, a classe é como uma forma, que pode ser usada para criar diversos objetos com o mesmo “formato”, com as mesmas características, já o objeto é o elemento em si que foi criado.
+
+
+3 - O que são atributos em uma classe?: São as características que o objeto irá possuir ao ser instanciado, são como variáveis que pertencem ao objeto instanciado.
+
+
+4 - O que são métodos?: São funções que serão passadas ao objeto instanciado, são como “ações” que esse objeto pode fazer.
+
+
+5. Para que serve um construtor?: O construtor de uma classe é a forma de instanciar um objeto, ou seja, construir o objeto ao molde da classe em questão.
+
+
+6. O que significa encapsulamento?: É uma forma de proteger tipos de dados em diferentes níveis, utilizando os modificadores private, para que atributos ou métodos possam apenas ser acessados pela sua classe pertencente, ou public, que permite a utilização em diferentes classes.
